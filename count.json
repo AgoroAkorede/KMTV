@@ -1,332 +1,367 @@
 [
-    {
-        "rank": 1,
-        "name": "Alex Brohman",
-        "value": 12
-    },
-    {
-        "rank": 2,
-        "name": "Daddywet-KmTV",
-        "value": 8
-    },
-    {
-        "rank": 3,
-        "name": "Landon Parker",
-        "value": 5
-    },
-    {
-        "rank": 4,
-        "name": "J-Money",
-        "value": 3
-    },
-    {
-        "rank": 5,
-        "name": "Exotic",
-        "value": 2
-    },
-    {
-        "rank": 6,
-        "name": "Yami-KMTV",
-        "value": 5
-    },
-    {
-        "rank": 7,
-        "name": "Safety John",
-        "value": 2
-    },
-    {
-        "rank": 8,
-        "name": "Red Cloud",
-        "value": 5
-    },
-    {
-        "rank": 9,
-        "name": "(twitch) little bossman 0013",
-        "value": 5
-    },
-    {
-        "rank": 10,
-        "name": "Dylan Macilveen",
-        "value": 1
-    },
-    {
-        "rank": 11,
-        "name": "Effgee 100",
-        "value": 1
-    },
-    {
-        "rank": 13,
-        "name": "Nolan Haley",
-        "value": 19
-    },
-    {
-        "rank": 14,
-        "name": "Tim/Lizard",
-        "value": 12
-    },
-    {
-        "rank": 15,
-        "name": "Zajac 1994",
-        "value": 1
-    },
-    {
-        "rank": 16,
-        "name": "Sara",
-        "value": 4
-    },
-    {
-        "rank": 17,
-        "name": "Jake Pauly Di Salvo",
-        "value": 6
-    },
-    {
-        "rank": 19,
-        "name": "Jarret New",
-        "value": 3
-    },
-    {
-        "rank": 20,
-        "name": "Dustin Brewster",
-        "value": 9
-    },
-    {
-        "rank": 21,
-        "name": "Big tex",
-        "value": 6
-    },
-    {
-        "rank": 22,
-        "name": "Bigmanblastoise52",
-        "value": 1
-    },
-    {
-        "rank": 23,
-        "name": "CubaneWifSandals",
-        "value": 1
-    },
-    {
-        "rank": 24,
-        "name": "Peggy",
-        "value": 1
-    },
-    {
-        "rank": 25,
-        "name": "Javi",
-        "value": 1
-    },
-    {
-        "rank": 26,
-        "name": "Bottled water",
-        "value": 1
-    },
-    {
-        "rank": 27,
-        "name": "Beth",
-        "value": 2
-    },
-    {
-        "rank": 28,
-        "name": "Jacob Mx 24",
-        "value": 3
-    },
-    {
-        "rank": 29,
-        "name": "EDDIE-KMTV",
-        "value": 1
-    },
-    {
-        "rank": 30,
-        "name": "lenaaa 92",
-        "value": 1
-    },
-    {
-        "rank": 31,
-        "name": "dabeardaddad",
-        "value": 1
-    },
-    {
-        "rank": 32,
-        "name": "Robert Mitchell",
-        "value": 1
-    },
-    {
-        "rank": 33,
-        "name": "MTG Battlegrounds",
-        "value": 1
-    },
-    {
-        "rank": 34,
-        "name": "FRANKRODZ",
-        "value": 1
-    },
-    {
-        "rank": 35,
-        "name": "Lizard Lizard Lizard",
-        "value": 1
-    },
-    {
-        "rank": 36,
-        "name": "Meekaah",
-        "value": 12
-    },
-    {
-        "rank": 37,
-        "name": "Tee God Mafia",
-        "value": 1
-    },
-    {
-        "rank": 38,
-        "name": "FattDanda 90",
-        "value": 20
-    },
-    {
-        "rank": 39,
-        "name": "VICTORIA GREY",
-        "value": 1
-    },
-    {
-        "rank": 41,
-        "name": "Cmo Police-KMTV",
-        "value": 1
-    },
-    {
-        "rank": 43,
-        "name": "yessi-KMTV",
-        "value": 8
-    },
-    {
-        "rank": 44,
-        "name": "Leorio",
-        "value": 9
-    },
-    {
-        "rank": 46,
-        "name": "Smurf 24",
-        "value": 2
-    },
-    {
-        "rank": 47,
-        "name": "Jose Aguado 21",
-        "value": 4
-    },
-    {
-        "rank": 48,
-        "name": "Salty by Nature",
-        "value": 6
-    },
-    {
-        "rank": 49,
-        "name": "Vespero 31",
-        "value": 7
-    },
-    {
-        "rank": 50,
-        "name": "Keylo 2xx",
-        "value": 1
-    },
-    {
-        "rank": 51,
-        "name": "Justin",
-        "value": 1
-    },
-    {
-        "rank": 54,
-        "name": "Emily Yoffe",
-        "value": 4
-    },
-    {
-        "rank": 55,
-        "name": "Jacqueline",
-        "value": 1
-    },
-    {
-        "rank": 56,
-        "name": "AVA",
-        "value": 1
-    },
-    {
-        "rank": 57,
-        "name": "OKEYLOR",
-        "value": 1
-    },
-    {
-        "rank": 58,
-        "name": "J money",
-        "value": 3
-    },
-    {
-        "rank": 59,
-        "name": "JATHAN-KMTV",
-        "value": 2
-    },
-    {
-        "rank": 60,
-        "name": "Krispy 501",
-        "value": 2
-    },
-    {
-        "rank": 61,
-        "name": "Rican",
-        "value": 1
-    },
-    {
-        "rank": 62,
-        "name": "Apocaly psenc 2021",
-        "value": 3
-    },
-    {
-        "rank": 63,
-        "name": "Smooth Bravo",
-        "value": 14
-    },
-    {
-        "rank": 64,
-        "name": "Nate Dawg 88",
-        "value": 1
-    },
-    {
-        "rank": 65,
-        "name": "Eddie",
-        "value": 1
-    },
-    {
-        "rank": 66,
-        "name": "Archie Robert 870",
-        "value": 1
-    },
-    {
-        "rank": 67,
-        "name": "Diesel",
-        "value": 6
-    },
-    {
-        "rank": 68,
-        "name": "kesper031",
-        "value": 7
-    },
-    {
-        "rank": 69,
-        "name": "Avn",
-        "value": 1
-    },
-    {
-        "rank": 70,
-        "name": "Heather Coleman",
-        "value": 1
-    },
-    {
-        "rank": 71,
-        "name": "Lindsay",
-        "value": 2
-    },
-    {
-        "rank": 72,
-        "name": "Rich",
-        "value": 1
-    },
-    {
-        "rank": 73,
-        "name": "Chef Tuna",
-        "value": 4
-    }
+  {
+    "rank": 1,
+    "name": "Alex Brohman",
+    "value": 12
+  },
+  {
+    "rank": 2,
+    "name": "Daddywet-KmTV",
+    "value": 4
+  },
+  {
+    "rank": 3,
+    "name": "Landon Parker",
+    "value": 5
+  },
+  {
+    "rank": 4,
+    "name": "J-Money",
+    "value": 3
+  },
+  {
+    "rank": 5,
+    "name": "Exotic",
+    "value": 2
+  },
+  {
+    "rank": 6,
+    "name": "Yami-KMTV",
+    "value": 5
+  },
+  {
+    "rank": 7,
+    "name": "Safety John",
+    "value": 2
+  },
+  {
+    "rank": 8,
+    "name": "Red Cloud",
+    "value": 5
+  },
+  {
+    "rank": 9,
+    "name": "(twitch) little bossman 0013",
+    "value": 5
+  },
+  {
+    "rank": 10,
+    "name": "Dylan Macilveen",
+    "value": 1
+  },
+  {
+    "rank": 11,
+    "name": "Effgee 100",
+    "value": 1
+  },
+  {
+    "rank": 13,
+    "name": "Nolan Haley",
+    "value": 19
+  },
+  {
+    "rank": 14,
+    "name": "Tim/Lizard",
+    "value": 9
+  },
+  {
+    "rank": 15,
+    "name": "Zajac 1994",
+    "value": 1
+  },
+  {
+    "rank": 16,
+    "name": "Sara",
+    "value": 4
+  },
+  {
+    "rank": 17,
+    "name": "Jake Pauly Di Salvo",
+    "value": 6
+  },
+  {
+    "rank": 19,
+    "name": "Jarret New",
+    "value": 3
+  },
+  {
+    "rank": 20,
+    "name": "Dustin Brewster",
+    "value": 2
+  },
+  {
+    "rank": 21,
+    "name": "Big tex",
+    "value": 6
+  },
+  {
+    "rank": 22,
+    "name": "Bigmanblastoise52",
+    "value": 1
+  },
+  {
+    "rank": 23,
+    "name": "CubaneWifSandals",
+    "value": 1
+  },
+  {
+    "rank": 24,
+    "name": "Peggy",
+    "value": 1
+  },
+  {
+    "rank": 25,
+    "name": "Javi",
+    "value": 1
+  },
+  {
+    "rank": 26,
+    "name": "Bottled water",
+    "value": 1
+  },
+  {
+    "rank": 27,
+    "name": "Beth",
+    "value": 2
+  },
+  {
+    "rank": 28,
+    "name": "Jacob Mx 24",
+    "value": 3
+  },
+  {
+    "rank": 29,
+    "name": "EDDIE-KMTV",
+    "value": 1
+  },
+  {
+    "rank": 30,
+    "name": "lenaaa 92",
+    "value": 1
+  },
+  {
+    "rank": 31,
+    "name": "dabeardaddad",
+    "value": 1
+  },
+  {
+    "rank": 32,
+    "name": "Robert Mitchell",
+    "value": 1
+  },
+  {
+    "rank": 33,
+    "name": "MTG Battlegrounds",
+    "value": 1
+  },
+  {
+    "rank": 34,
+    "name": "FRANKRODZ",
+    "value": 1
+  },
+  {
+    "rank": 35,
+    "name": "Lizard Lizard Lizard",
+    "value": 1
+  },
+  {
+    "rank": 36,
+    "name": "Meekaah",
+    "value": 12
+  },
+  {
+    "rank": 37,
+    "name": "Tee God Mafia",
+    "value": 1
+  },
+  {
+    "rank": 38,
+    "name": "FattDanda 90",
+    "value": 20
+  },
+  {
+    "rank": 39,
+    "name": "VICTORIA GREY",
+    "value": 1
+  },
+  {
+    "rank": 41,
+    "name": "Cmo Police-KMTV",
+    "value": 1
+  },
+  {
+    "rank": 43,
+    "name": "yessi-KMTV",
+    "value": 8
+  },
+  {
+    "rank": 44,
+    "name": "Leorio",
+    "value": 9
+  },
+  {
+    "rank": 46,
+    "name": "Smurf 24",
+    "value": 2
+  },
+  {
+    "rank": 47,
+    "name": "Jose Aguado 21",
+    "value": 4
+  },
+  {
+    "rank": 48,
+    "name": "Salty by Nature",
+    "value": 6
+  },
+  {
+    "rank": 49,
+    "name": "Vespero 31",
+    "value": 7
+  },
+  {
+    "rank": 50,
+    "name": "Keylo 2xx",
+    "value": 1
+  },
+  {
+    "rank": 51,
+    "name": "Justin",
+    "value": 1
+  },
+  {
+    "rank": 54,
+    "name": "Emily Yoffe",
+    "value": 4
+  },
+  {
+    "rank": 55,
+    "name": "Jacqueline",
+    "value": 1
+  },
+  {
+    "rank": 56,
+    "name": "AVA",
+    "value": 1
+  },
+  {
+    "rank": 57,
+    "name": "OKEYLOR",
+    "value": 1
+  },
+  {
+    "rank": 58,
+    "name": "J money",
+    "value": 3
+  },
+  {
+    "rank": 59,
+    "name": "JATHAN-KMTV",
+    "value": 2
+  },
+  {
+    "rank": 60,
+    "name": "Krispy 501",
+    "value": 2
+  },
+  {
+    "rank": 61,
+    "name": "Rican",
+    "value": 1
+  },
+  {
+    "rank": 62,
+    "name": "Apocaly psenc 2021",
+    "value": 3
+  },
+  {
+    "rank": 63,
+    "name": "Smooth Bravo",
+    "value": 19
+  },
+  {
+    "rank": 64,
+    "name": "Nate Dawg 88",
+    "value": 1
+  },
+  {
+    "rank": 65,
+    "name": "Eddie",
+    "value": 1
+  },
+  {
+    "rank": 66,
+    "name": "Archie Robert 870",
+    "value": 1
+  },
+  {
+    "rank": 67,
+    "name": "Diesel",
+    "value": 6
+  },
+  {
+    "rank": 68,
+    "name": "kesper031",
+    "value": 7
+  },
+  {
+    "rank": 69,
+    "name": "Avn",
+    "value": 1
+  },
+  {
+    "rank": 70,
+    "name": "Heather Coleman",
+    "value": 1
+  },
+  {
+    "rank": 71,
+    "name": "Lindsay",
+    "value": 2
+  },
+  {
+    "rank": 72,
+    "name": "Rich",
+    "value": 1
+  },
+  {
+    "rank": 73,
+    "name": "Chef Tuna",
+    "value": 5
+  },
+  {
+    "rank": 74,
+    "name": "MaxthefuzzyPanda",
+    "value": 2
+  },
+  {
+    "rank": 75,
+    "name": "Hannah",
+    "value": 6
+  },
+  {
+    "rank": 76,
+    "name": "Jackwg177",
+    "value": 2
+  },
+  {
+    "rank": 77,
+    "name": "Sam W",
+    "value": 2
+  },
+  {
+    "rank": 78,
+    "name": "Nicole Eisele",
+    "value": 5
+  },
+  {
+    "rank": 79,
+    "name": "Keli Brokmeier",
+    "value": 4
+  },
+  {
+    "rank": 80,
+    "name": "Sins Nyc",
+    "value": 1
+  }
 ]
