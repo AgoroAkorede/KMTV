@@ -232,17 +232,6 @@
         "desc": "The Pokémon TCG: Scarlet & Violet—Paldean Fates Elite Trainer Box includes 9 booster packs and various accessories."
     },
     {
-        "name": "151 ETB",
-        "count": 42,
-        "img": "https://i.imgur.com/f5YqXIi.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://m.media-amazon.com/images/I/81Ned3gMNqL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/914z2h8munL._AC_SX679_.jpg"
-        ],
-        "desc": "Pokémon TCG: Scarlet & Violet—151 booster packs and elite trainer accessories."
-    },
-    {
         "name": "Champion Path ETB",
         "count": 18,
         "img": "https://i.imgur.com/d0ox6MV.png",
