@@ -1,538 +1,549 @@
 [
-    {
-        "name": "Destined Rivals",
-        "count": 1,
-        "img": "https://imgur.com/MODbSD6.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv10/collections/en-us/sv10-sleeved-boosters-en.png"
-        ],
-        "desc": "Whose Side Are You On? Pokémon Trainers, be on high alert! The nefarious Team Rocket is setting its latest plan into motion, and heroic Trainers are racing to stop it. Join forces with the likes of Cynthia and Garchomp ex, Ethan and Ho-Oh ex, or Arven and Mabosstiff ex… Or reconsider your loyalties and fight alongside Team Rocket’s Pokémon like Mewtwo ex—under the command of Giovanni! Choose a side, assemble your allies, and battle boldly in the Pokémon TCG: Scarlet & Violet—Destined Rivals expansion!"
-    },
-    {
-        "name": "Mega Gengar Ex",
-        "count": 3,
-        "img": "https://imgur.com/iFzoztm.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://imgur.com/s5cuQU4.png"
-        ],
-        "desc": "Complete battle-ready Pokemon Trading Card Game deck featuring powerful Pokemon cards and essential trainer cards for competitive play"
-    },
-    {
-        "name": "Mega Evolution",
-        "count": 1,
-        "img": "https://i.ebayimg.com/images/g/OzEAAeSwcwlpB~eE/s-l1600.webp",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.ebayimg.com/images/g/OzEAAeSwcwlpB~eE/s-l1600.webp",
-            "https://i.ebayimg.com/images/g/zw4AAeSwCtZpG8Zf/s-l1600.webp"
-        ],
-        "desc": "Mega Evolution cards are a powerful category of the Pokémon Trading Card Game (TCG) featuring Pokémon that have undergone a temporary, high-powered transformation."
-    },
-    {
-        "name": "Phantasmal Blister",
-        "count": 1,
-        "img": "https://tcgplayer-cdn.tcgplayer.com/product/654151_in_1000x1000.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/654151_in_1000x1000.jpg"
-        ],
-        "desc": "gnite a Burning Spirit of Battle! Searing blue flames rip across a dark battlefield as Mega Charizard X ex soars up and looks down upon its opponents! With a deep chill to rival the heat, the shadowy figure of Mega Gengar ex slowly rises into view, and both Pokémon prepare to attack. Determined to prove their mettle, Mega Heracross ex, Mega Lopunny ex, and even more Pokémon line up to give it their all in the Pokémon TCG: Mega Evolution-Phantasmal Flames expansion!"
-    },
-    {
-        "name": "Lost Origin Sleeve Booster",
-        "count": 2,
-        "img": "https://imgur.com/FU6qJRm.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThXlGNsUmpp26tWXYLOaKM67MxuUCPutmJug&s.png",
-            "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8354_182-85056_01.jpg"
-        ],
-        "desc": "Each Lost Origin sleeved booster pack contains 10 random cards."
-    },
-    {
-        "name": "Unbroken Bonds Blister",
-        "count": 6,
-        "img": "https://tcgplayer-cdn.tcgplayer.com/product/188413_in_1000x1000.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/188413_in_1000x1000.jpg",
-            "https://cardsrfun.de/cdn/shop/products/pixelcut_28.jpg?v=1684255454&width=1214"
-        ],
-        "desc": "You will receive, at random, one of two different 3 Booster Blister Pack from the Pokémon TCG: Sun & Moon—Unbroken Bonds expansion Each Blister Pack will contain 3 booster packs. A great way to add to your collection of cards from this expansion You will also receive a foil promo card."
-    },
-    {
-        "name": "Fusion Strike Sleeve Booster",
-        "count": 6,
-        "img": "https://cardshoplive.com/cdn/shop/products/45e06484-0736-56c5-bf92-80d89008cae6_80cb5356-6286-41b8-9b2e-1b6a52a5f6fb_800x.png?v=1644278276",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://cardshoplive.com/cdn/shop/products/45e06484-0736-56c5-bf92-80d89008cae6_80cb5356-6286-41b8-9b2e-1b6a52a5f6fb_800x.png?v=1644278276",
-            "https://m.media-amazon.com/images/I/61E-n-tdc3L._AC_SY879_.jpg"
-        ],
-        "desc": "The path ahead is riddled with rivals and fierce battle."
-    },
-    {
-        "name": "Mega Evolutions BB",
-        "count": 22,
-        "img": "https://storage.googleapis.com/images.pricecharting.com/u5xnrlbvhqoqnwaq/1600.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://storage.googleapis.com/images.pricecharting.com/u5xnrlbvhqoqnwaq/1600.jpg",
-            "https://m.media-amazon.com/images/I/81PXZVeBaNL._AC_SY879_.jpg",
-            "https://www.pokemoncenter.com/images/DAMRoot/High/10015/P10346_10-10054-108_02.jpg"
-        ],
-        "desc": "The Pokémon TCG: Mega Evolution Enhanced Booster Display Box contains 36 booster packs from Pokémon TCG: Mega Evolution.This is a great way to try and collect all the cards in the new Mega Evolutions expansion. The new Mega Evolutions expansion has over 180 cards and nearly a dozen Mega Evolution Pokémon ex."
-    },
-    {
-        "name": "Unified Minds 3 Pack Blister",
-        "count": 15,
-        "img": "https://images.pristineauction.com/178/1783125/1613413342-Pokemon-Sun-Moon-Unified-Minds-3-Pack-Hanger-Box-PristineAuction.com.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://images.pristineauction.com/178/1783125/1613413342-Pokemon-Sun-Moon-Unified-Minds-3-Pack-Hanger-Box-PristineAuction.com.jpg"
-        ],
-        "desc": "A Pokémon TCG: Sun & Moon—Unified Minds 3-Pack Blister typically includes three booster packs, a collectible metallic coin, and one of two foil black star promo cards (SM208 Vikavolt or SM209 Stakataka). The blister also includes a code card for the Pokémon Trading Card Game Online. Each pack contains 10 cards. Booster Packs: 3x Sun & Moon—Unified Minds packs.Promo Card: 1x Foil promo card (either SM208 Vikavolt or SM209 Stakataka).Coin: 1x Pokemon coin (commonly a Rowlet design).Online Code Card: 1x TCG Live/Online code card."
-    },
-    {
-        "name": "Twilight Booster Box",
-        "count": 28,
-        "img": "https://cdn.shopify.com/s/files/1/0275/9661/9858/files/543846_in_1000x1000_550d8967-ec40-4a76-95e9-9a3a78d8fa84.jpg?v=1741419044.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://cdn.shopify.com/s/files/1/0275/9661/9858/files/543846_in_1000x1000_550d8967-ec40-4a76-95e9-9a3a78d8fa84.jpg?v=1741419044.png",
-            "https://i.ebayimg.com/images/g/e3gAAOSwBZFmAREb/s-l1600.webp",
-            "https://i.ebayimg.com/images/g/4ewAAOSwH-hmAREb/s-l1600.webp"
-        ],
-        "desc": "A Festival of Mischief & Mystery! Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
-    },
-    {
-        "name": "151 Booster Bundle",
-        "count": 10,
-        "img": "https://storage.googleapis.com/images.pricecharting.com/q6f5vquklqmrpii4/1600.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://storage.googleapis.com/images.pricecharting.com/q6f5vquklqmrpii4/1600.jpg",
-            "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv3dot5/header/en-us/151-small-fallback.jpg"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—151 Booster Bundle contains six booster packs from the special Scarlet & Violet—151 expansion. Each individual pack contains 10 cards and 1 Basic Energy, featuring Pokémon from the original Kanto region. This bundle is designed to help collectors fill their sets with Pokémon ex, illustration rares, and special illustration rares.."
-    },
-    {
-        "name": "Paldean Fates Booster Bundle",
-        "count": 10,
-        "img": "https://storage.googleapis.com/images.pricecharting.com/c9ec00614ec0ce1f87ffe426b17815b5a0812d610a9b1361a81f2f60f3789d36/1600.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://storage.googleapis.com/images.pricecharting.com/c9ec00614ec0ce1f87ffe426b17815b5a0812d610a9b1361a81f2f60f3789d36/1600.jpg",
-            "https://m.media-amazon.com/images/I/81Z4hPWuVrL._AC_SY879_.jpg",
-            "https://m.media-amazon.com/images/I/81z5arbZkeL._AC_SX679_.jpg"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Paldean Fates Booster Bundle includes six booster packs from the special expansion. Each pack contains 10 cards and 1 Basic Energy, with a focus on Shiny Pokémon, including Shiny Pikachu, Tinkaton, Ceruledge, Dondozo, and Shiny Tera Pokémon ex like Charizard."
-    },
-    {
-        "name": "Journey Together Booster Bundle",
-        "count": 4,
-        "img": "https://cdn.shopify.com/s/files/1/0598/2244/0600/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024_1.jpg?v=1742624662.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://cdn.shopify.com/s/files/1/0598/2244/0600/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024_1.jpg?v=1742624662.png",
-            "https://dz3we2x72f7ol.cloudfront.net/expansions/journey-together/en-us/SV09_EN_98-2x.png"
-        ],
-        "desc": "rainer’s Pokémon Break into Battle! With deep trust and steady guidance, Trainers help bring out the best in their Pokémon. The bond they share empowers them to act as one in battle as they push their strength to the limit, including as Pokémon ex! Team up with N’s Zoroark ex, Iono’s Bellibolt ex, Lillie’s Clefairy ex, Hop’s Zacian ex, and more Trainer's Pokémon, and discover the unstoppable power of friendship in the Pokémon TCG: Scarlet & Violet—Journey Together expansion!"
-    },
-    {
-        "name": "Temporal Forces Booster Box",
-        "count": 25,
-        "img": "https://storage.googleapis.com/images.pricecharting.com/4fbe4dff0849444e52fb7aa13fe52781770adbe24cbf9fcd9cbf12aa5d3327df/1600.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://storage.googleapis.com/images.pricecharting.com/4fbe4dff0849444e52fb7aa13fe52781770adbe24cbf9fcd9cbf12aa5d3327df/1600.jpg",
-            "https://shoplineimg.com/62a373d4592b8000236cbb90/65a43875f47fa1001130ceab/800x.jpg?"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Temporal Forces Booster Display Box contains 36 Booster Packs from the Temporal Forces Expansion of the the The Pokémon TCG card game."
-    },
-    {
-        "name": "Brilliant Stars Booster Box",
-        "count": 50,
-        "img": "https://tcgplayer-cdn.tcgplayer.com/product/256141_in_1000x1000.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/256141_in_1000x1000.jpg",
-            "https://m.media-amazon.com/images/I/91erDo+fgeL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/71ei00lz8jL.jpg"
-        ],
-        "desc": "Each Sword & Shield— Brilliants Stars booster box contains 36 booster packs. (Each pack contains 10 random cards)"
-    },
-    {
-        "name": "Astral Radiance Booster Box",
-        "count": 36,
-        "img": "https://storage.googleapis.com/images.pricecharting.com/ugsxjoig7mzehidq/1600.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://storage.googleapis.com/images.pricecharting.com/ugsxjoig7mzehidq/1600.jpg",
-            "https://m.media-amazon.com/images/I/71YW3pTA29L._AC_SX679_.jpg"
-        ],
-        "desc": "Astral Radiance is the 10th main expansion in the Sword & Shield Series."
-    },
-    {
-        "name": "Silver Tempest Booster Box",
-        "count": 43,
-        "img": "https://tcgplayer-cdn.tcgplayer.com/product/283389_in_1000x1000.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/283389_in_1000x1000.jpg",
-            "https://m.media-amazon.com/images/I/91qtr5O-plL._AC_UF350,350_QL80_.jpg"
-        ],
-        "desc": "Thirty-six sealed booster packs of Pokemon's Sliver Tempest expansion."
-    },
-    {
-        "name": "Ascended Heroes Pokemon Center",
-        "count": 20,
-        "img": "https://tcgplayer-cdn.tcgplayer.com/product/668497_in_1000x1000.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/668497_in_1000x1000.jpg",
-            "https://i.ebayimg.com/images/g/b1MAAeSwy~xpjmUI/s-l1600.webp"
-        ],
-        "desc": "Card Text:Rise to a New Challenge! Marvel at the awesome potential as Mega Dragonite ex takes flight, leading a gathering of all-star Pokémon to battle! Trainer’s Pokémon and Stellar Tera Pokémon ex join returning and newly discovered Mega Evolution Pokémon ex, including some with special artwork showing off their biggest and boldest attacks. Celebrate the stars of Scarlet & Violet and the dawn of Mega Evolution with the Pokémon TCG: Mega Evolution—Ascended Heroes expansion!"
-    },
-    {
-        "name": "Pokemon Center Kanazawa Limited Special Box",
-        "count": 90,
-        "img": "https://i.imgur.com/hhEART8.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/hhEART8.png",
-            "https://www.fujicardshop.com/wp-content/uploads/2024/07/SP-kanazawa_2-scaled-1024x1024.webp",
-            "https://www.fujicardshop.com/wp-content/uploads/2024/07/SP-kanazawa_p1-1024x1024.webp"
-        ],
-        "desc": "Pokemon Center Kanazawa Limited Special Box featuring Pikachu. Premium card shields included."
-    },
-    {
-        "name": "Charizard SWSH UPC",
-        "count": 40,
-        "img": "https://i.imgur.com/PpQJxzz.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/PpQJxzz.png"
-        ],
-        "desc": "Celebrate the Sword & Shield Series and the era of Pokémon V, Pokémon VMAX, and Pokémon VSTAR with a hotshot who knows how to put all that power to good use!"
-    },
-    {
-        "name": "Paldean Fates ETB",
-        "count": 40,
-        "img": "https://i.imgur.com/lL9LgLg.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://m.media-amazon.com/images/I/81EE94CCiIL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/91nD2E+-clL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81v1f0UlnoL._AC_SX679_.jpg"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Paldean Fates Elite Trainer Box includes 9 booster packs and various accessories."
-    },
-    {
-        "name": "Champion Path ETB",
-        "count": 18,
-        "img": "https://i.imgur.com/d0ox6MV.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://m.media-amazon.com/images/I/61RfKGudmML._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/81EOiSs0x4L._AC_SX679_.jpg"
-        ],
-        "desc": "The Pokémon TCG: Champion’s Path Elite Trainer Box includes 10 booster packs and a full-art promo card featuring Charizard V."
-    },
-    {
-        "name": "Moon ETB",
-        "count": 16,
-        "img": "https://i.imgur.com/r6bqVle.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://m.media-amazon.com/images/I/61E00Rk-xNL._AC_SX679_.jpg",
-            "https://m.media-amazon.com/images/I/51AsxPkJ94L._AC_SX679_.jpg"
-        ],
-        "desc": "Elite Trainer Box inventory item."
-    },
-    {
-        "name": "Astral Radiance ETB",
-        "count": 9,
-        "img": "https://i.imgur.com/6L93InO.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://tcgplayer-cdn.tcgplayer.com/product/265527_in_1000x1000.jpg",
-            "https://card-binder.com/cdn/shop/files/Astral-Radiance-Elite-Trainer-Box-inhoud.webp"
-        ],
-        "desc": "THE POKÉMON TCG: SWORD & SHIELD — Astral Radiance ELITE TRAINER BOX."
-    },
-    {
-        "name": "Surging Sparks ETB",
-        "count": 7,
-        "img": "https://i.imgur.com/Rv9k0Bl.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://m.media-amazon.com/images/I/91G7bLEebxL._AC_SX679_.jpg",
-            "https://tcgplayer-cdn.tcgplayer.com/product/565630_in_1000x1000.jpg"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Surging Sparks Elite Trainer Box."
-    },
-    {
-        "name": "Phantasmal Flames",
-        "count": 8,
-        "img": "https://i.ebayimg.com/images/g/NegAAeSw1H1pHI-G/s-l1600.webp",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/qGMO3Xy.png",
-            "https://i.ebayimg.com/images/g/PPAAAeSwD9tpHI-G/s-l1600.webp"
-        ],
-        "desc": " The set is headlined by Mega Charizard X ex and Mega Gengar ex, reflecting the 'flame' and 'phantasmal' (ghost) duality in the title. Other featured Mega Evolutions include Mega Heracross ex, Mega Lopunny ex, Mega Diancie ex, and Mega Sharpedo ex."
-    },
-    {
-        "name": "Mega Charizard X ex",
-        "count": 3,
-        "img": "https://i.imgur.com/0vB9tWa.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/0vB9tWa.png"
-        ],
-        "desc": "The Mega Charizard X ex (130/094) is a Stage 2 Fire-type Pokémon ex card with 360 HP, featuring the 'Inferno X' attack, which discards Fire Energy to deal damage. Released in the Phantasmal Flames expansion, this card often features artwork by takuyoa and is available in premium collections featuring blue flame imagery. ."
-    },
-    {
-        "name": "Paradox Rift ETB",
-        "count": 8,
-        "img": "https://i.imgur.com/72UxpTh.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/72UxpTh.png",
-            "https://www.spshop.ca/cdn/shop/files/PokemonTCGScarletViolet--ParadoxRiftEliteTrainerBox-IronValiant-Front_EN-1201x1049-0e04d5a_1024x1024.png?v=1734127556",
-            "https://m.media-amazon.com/images/I/91frM0iFRBL._AC_SL1500_.jpg"
-        ],
-        "desc": "Pokémon TCG: Scarlet & Violet—Paradox Rift is the fourth expansion in the Scarlet & Violet series, focusing on Ancient Pokémon (high HP/damage) and Future Pokémon (speed/technique). It introduces over 180 cards, including 13 Pokémon ex, 7 Tera Pokémon ex, and Technical Machine cards."
-    },
-    {
-        "name": "Masks of Ogerpon",
-        "count": 5,
-        "img": "https://i.imgur.com/dWAygo2.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/dWAygo2.png",
-            "https://i.imgur.com/RKPp4M6.png"
-        ],
-        "desc": "The Pokémon TCG: Masks of Ogerpon Premium Collection features Hearthflame and Wellspring Mask Ogerpon ex cards, along with 10 booster packs (typically 5 Twilight Masquerade, 5 Temporal Forces) and an oversized card. It focuses on the Fire and Water types of the Legendary Pokémon."
-    },
-    {
-        "name": "Mega lucario ex",
-        "count": 4,
-        "img": "https://i.ebayimg.com/images/g/zqwAAeSwZ3hpfoDP/s-l1600.webp",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/dWAygo2.png"
-        ],
-        "desc": "Mega Evolution Pokémon first made their Pokémon TCG debut as part of the XY expansion, but they work much differently in the new Mega Evolution expansion. Back in the day, unless you had a special Pokémon Tool card known as a Spirit Link attached, your turn would end when you Mega Evolved a Pokémon."
-    },
-    {
-        "name": "Scarlet+Violet Destined Rivals",
-        "count": 5,
-        "img": "https://i.imgur.com/wGsWO4l.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/TXTewzC.png"
-        ],
-        "desc": "Pokémon TCG: Scarlet & Violet—Destined Rivals, focuses on iconic trainer-Pokémon pairs and the return of 'Trainer's Pokémon' cards, featuring over 85 such cards, including Team Rocket. Key highlights include Giovanni and Mewtwo ex, Ethan and Ho-Oh ex, and Cynthia and Garchomp ex"
-    },
-    {
-        "name": "Charizrd ex Special collection",
-        "count": 4,
-        "img": "https://i.imgur.com/3Gmv8ug.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/qAyJ4v5.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/charizard-ex-special-collection/charizard-ex-special-collection-169-en.png"
-        ],
-        "desc": "Charizard ex burns up the opposition’s lead with the cunning firepower of a Darkness-type Pokémon. Evolve from Charmander and Charmeleon, then use its strong Ability and attack to make a roaring comeback. This fiery set also comes with 5 Pokémon TCG booster packs and an oversize lenticular card featuring the Flame Pokémon itself; move the card back and forth to see Charizard ex go on the attack."
-    },
-    {
-        "name": "Sword and Shield Brilliant Stars",
-        "count": 2,
-        "img": "https://cosmiccollectables.co.uk/cdn/shop/products/3sleeve_grande.jpg?v=1636676796",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/WwvDvk1.png"
-        ],
-        "desc": "Each Brilliant Stars booster pack contains 10 random cards."
-    },
-    {
-        "name": "Black Bolt ETB",
-        "count": 17,
-        "img": "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv10dot5/collections/en-us/zsv10pt5-blackbolt-pc-etb-en-2x.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/khiE0CX.png",
-            "https://i.ebayimg.com/images/g/dLEAAeSwovhonfH3/s-l1600.webp"
-        ],
-        "desc": "Reunite with the Pokémon of Unova and rise to the top as a Trainer in a land of unity and legends! Evolve first partner Snivy all the way to Serperior ex, and discover the inspiring power of ideals with the region’s Legendary and Mythical Pokémon, including Zekrom ex and Meloetta ex. As you fill out your Pokédex, keep an eye out for special illustrations of each Pokémon and parallel cards with Poké Ball patterns in the Pokémon TCG: Scarlet & Violet—Black Bolt expansion!"
-    },
-    {
-        "name": "Black Bolt Binder Collection",
-        "count": 5,
-        "img": "https://i.imgur.com/ibYMkUO.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/L7RTtNN.png"
-        ],
-        "desc": "Just like a Pokédex, a binder makes it easy to keep track of your Pokémon collection! With this 9-pocket binder, you can show off many of your favorite Pokémon TCG cards. Get a head start filling it up with five booster packs from the special Scarlet & Violet—Black Bolt or Scarlet & Violet—White Flare expansion! Each Pokémon TCG: Scarlet & Violet—Black Bolt and Scarlet & Violet—White Flare Binder Collection includes:A thematic 9-pocket binder 5 Pokémon TCG: Scarlet & Violet—Black Bolt or Scarlet & Violet—White Flare booster packs A collector’s card list"
-    },
-    {
-        "name": "Mega Evolution Ascended Heroes",
-        "count": 3,
-        "img": "https://i.imgur.com/xSavD0M.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/xSavD0M.png"
-        ],
-        "desc": ""
-    },
-    {
-        "name": "Mega Evolution Ascended Heroes",
-        "count": 3,
-        "img": "https://i.imgur.com/QUR6mfl.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/QUR6mfl.png"
-        ],
-        "desc": "Each Pokémon TCG: Mega Evolution—Ascended Heroes Collection—Erika/Larry includes: - 1 foil promo card featuring Erika’s Tangela or Larry’s Komala - 1 Pokémon coin featuring Erika or Larry - 2 Pokémon TCG: Mega Evolution—Ascended Heroes booster packs"
-    },
-    {
-        "name": "Scarlet and Violet Prismatic Evolutions Booster Box",
-        "count": 8,
-        "img": "https://i.imgur.com/wXpCmuf.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/ozyfebZ.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png"
-        ],
-        "desc": "From fluffy and fiery to freezing and fanciful, Eevee and its many Evolutions hold a special place in the hearts of Pokémon Trainers across the land. Discover their unique powers as Stellar Tera Pokémon ex, and look for treasure of your very own across a grand gathering of Pokémon ex from Paldea and beyond. Glittering gems and hidden patterns await at the end of the rainbow in the Pokémon TCG: Scarlet & Violet—Prismatic Evolutions expansion!"
-    },
-    {
-        "name": "Scarlet and Violet Prismatic Evolutions Premium figure collection",
-        "count": 18,
-        "img": "https://i.imgur.com/rF9f0nQ.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/GVn8dUs.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-premium-figure-collection/sv8pt5-premium-figure-collection-169-en.png"
-        ],
-        "desc": "The Sun Pokémon and Moonlight Pokémon combine powers to bring dazzling treasures to your collection! Appearing as Stellar Tera Pokémon ex, Espeon and Umbreon sparkle brightly with attacks that disrupt your opponent’s strategy. These etched foil promo cards are joined by a display-ready figure showing both of these Eevee Evolutions looking focused and fierce, plus a collectible enamel pin and full set of card sleeves for your next deck. Then, get ready to find even more surprises inside booster packs from the special Scarlet & Violet—Prismatic Evolutions expansion!"
-    },
-    {
-        "name": "Scarlet and Violet Prismatic Evolutions ETB",
-        "count": 13,
-        "img": "https://m.media-amazon.com/images/I/81DG4MWqGAL._AC_SX679_.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/jlKfw9L.png",
-            "https://m.media-amazon.com/images/I/918i1qmnt2L._AC_SX679_.jpg"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box includes 9 Pokémon TCG: Scarlet & Violet—Prismatic Evolutions booster packs, 1 full-art foil promo card featuring Eevee, and 65 card sleeves featuring Eevee as a Stellar Tera Pokémon."
-    },
-    {
-        "name": "Scarlet and Violet Prismatic Evolutions Poster Collection",
-        "count": 4,
-        "img": "https://m.media-amazon.com/images/I/71igL1nP9aL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/TSxxuIJ.png",
-            "https://m.media-amazon.com/images/I/714HKoEHyYL._AC_SX679_.jpg",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png"
-        ],
-        "desc": "Discover a rainbow of Eevee friends! Eevee’s three Evolutions originally discovered in the Kanto region are beloved by Pokémon Trainers across the land, and now you can add them to your own collection as foil promo cards! You’ll also get a poster featuring the special Scarlet & Violet—Prismatic Evolutions expansion, along with three booster packs to open. The only question is which cards you’ll find inside them!"
-    },
-    {
-        "name": "Scarlet and Violet Shrouded Fable ETB",
-        "count": 7,
-        "img": "https://m.media-amazon.com/images/I/91Whs704agL._AC_SX679_.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/W3GkfWQ.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-elite-trainer-box/sv6pt5-elite-trainer-box-169-en.png"
-        ],
-        "desc": "Rumors swirl and memories deceive as the march of time beats on in the land of Kitakami! Prepare for nightfall and discover a malevolent presence as Pecharunt ex commands the Loyal Three—Okidogi ex, Munkidori ex, and Fezandipiti ex—to do its nefarious bidding. These amazing Pokémon and more all await in the Pokémon TCG: Scarlet & Violet—Shrouded Fable expansion! This Elite Trainer Box has everything that you need to get started on your Pokémon TCG journey, from booster packs that add new cards to your collection to a set of sleeves for your favorite cards or Pokémon TCG deck. You’ll also be delighted to see the treacherous Pecharunt appearing as a full-art foil promo card."
-    },
-    {
-        "name": "Scarlet and Violet Prismatic Evolution Surprise Box",
-        "count": 4,
-        "img": "https://www.pokemoncenter.com/images/DAMRoot/High/10004/P10460_100-10096_01.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/soufBlV.png",
-            "https://www.pokemoncenter.com/images/DAMRoot/High/10004/P10460_100-10096_02.jpg",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-surprise-box/sv8pt5-surprise-box-169-en.png"
-        ],
-        "desc": "The Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Surprise Box, features 4 booster packs from the special expansion and 1 of 9 random foil promo cards (Eevee or its evolutions as Stellar Tera Pokémon ex). The box includes 4 card dividers for storage, a code card for TCG Live, and is designed for collectors"
-    },
-    {
-        "name": "Team Rocket's Nidoking ex",
-        "count": 4,
-        "img": "https://tools.toywiz.com/_images/_webp/_products/lg/teamrocketsnidoking.webp",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/lxCa1hD.png"
-        ],
-        "desc": ""
-    },
-    {
-        "name": "Team Rocket's Persian ex",
-        "count": 4,
-        "img": "https://i.imgur.com/o9na7Tk.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/o9na7Tk.png"
-        ],
-        "desc": "Each Pokémon Persian Team Rocket ex Tin includes 5 booster packs and more!"
-    },
-    {
-        "name": "Scarlet and Violet Twilight Masqurade ETB",
-        "count": 6,
-        "img": "https://www.pokemoncenter.com/images/DAMRoot/Full-Size/10000/P9505_189-85799_01.jpg",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/sZvJsrV.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv06-elite-trainer-box/sv06-elite-trainer-box-169-en.png",
-            "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9505_189-85799_02.jpg",
-            "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9505_189-85799_06.jpg"
-        ],
-        "desc": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
-    },
-    {
-        "name": "Sword and shield vivid voltage",
-        "count": 6,
-        "img": "https://pastimesports.ca/cdn/shop/files/download_4b66eff8-1402-4db2-b2b9-f968902d0bab_167x301.jpg?v=1736030163",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/DPskbC3.png"
-        ],
-        "desc": "Discover new brilliance and maximum power in the Pokémon TCG: Sword & Shield—Vivid Voltage expansion. Even more Pokémon V are lining up to battle, including the newly discovered Mythical Pokémon Zarude! Unique new Amazing Pokémon burst onto the scene with a rainbow splash, alongside more Pokémon VMAX…including the splendor, the majesty, the delightful round wonder that is Gigantamax Pikachu! Put a little color and a lot of spark into your deck or collection with the Sword & Shield—Vivid Voltage expansion!"
-    },
-    
-    {
-        "name": "Scarlet and violet Zapdos ex collection",
-        "count": 15,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwae69evWguuj3m4d4ZFRAdiFWtMx75Os0g&s",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
-            "https://i.imgur.com/VfC652T.png",
-            "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-collection-zapdos-ex/sv035-collection-zapdos-ex-169-en.png"
-        ],
-        "desc": "Strike with electrifying power and then retreat as fast as lightning with Zapdos ex! This Legendary Pokémon of the Kanto region is here as a ready-to-play promo card and an oversize card for your collection, along with a foil card featuring Electabuzz, and more Pokémon inside booster packs from the special Scarlet & Violet—151 expansion."
-    },
-    {
-        "name": "Mega Evolution Ascended Heroes",
-        "count": 7,
-        "img": "https://i.imgur.com/AE4gBSK.png",
-        "url": "SHOP_URL_PLACEHOLDER",
-        "images": [
+  {
+    "name": "Destined Rivals",
+    "count": 1,
+    "img": "https://imgur.com/MODbSD6.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv10/collections/en-us/sv10-sleeved-boosters-en.png"
+    ],
+    "desc": "Whose Side Are You On? Pokémon Trainers, be on high alert! The nefarious Team Rocket is setting its latest plan into motion, and heroic Trainers are racing to stop it. Join forces with the likes of Cynthia and Garchomp ex, Ethan and Ho-Oh ex, or Arven and Mabosstiff ex… Or reconsider your loyalties and fight alongside Team Rocket’s Pokémon like Mewtwo ex—under the command of Giovanni! Choose a side, assemble your allies, and battle boldly in the Pokémon TCG: Scarlet & Violet—Destined Rivals expansion!"
+  },
+  {
+    "name": "Ascended Poster",
+    "count": 10,
+    "img": "https://imgur.com/Uj53SaV.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://imgur.com/Uj53SaV.png"],
+    "desc": "Decorate Your Space with Mega Lucario ex or Mega Gardevoir ex! With strong attacks and big HP, Mega Lucario ex and Mega Gardevoir ex break through boundaries in battle! Team up with one of these powerful Mega Evolution Pokémon ex as a full-art foil promo card, then find even more Pokémon inside a stack of 10 booster packs from Mega Evolution—Ascended Heroes. You’ll also get a large poster showing off Mega Lucario or Mega Gardevoir and other Pokémon featured in this special expansion"
+  },
+  {
+    "name": "Ascended Pin Collection",
+    "count": 5,
+    "img": "https://imgur.com/R9AwMgk.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://imgur.com/R9AwMgk.png"],
+    "desc": "Before going on a new adventure,its essential to choose a first partner Pokémon! With this box, you can befriend the Grass type Chikorita, Fire type Tepig, and Water type Totodile as foil promo cards and as a deluxe pin showing off all three Pokémon together in glossy enamel. You also get five booster packs from the special Mega Evolution—Ascended Heroes expansion! The Pokémon TCG: Mega Evolution—Ascended Heroes First Partners Deluxe Pin"
+  },
+  {
+    "name": "Perfect Order",
+    "count": 8,
+    "img": "https://imgur.com/93AaTKr.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://imgur.com/93AaTKr.png",
+      "https://imgur.com/rj4EnFX.png"
+    ],
+    "desc": "Mega Evolution Perfect Order Elite Trainer Box: 9 Pokémon booster packs, 65 card sleeves, 45 Pokémon TCG Energy cards"
+  },
+  {
+    "name": "Perfect Order",
+    "count": 8,
+    "img": "https://imgur.com/93AaTKr.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://imgur.com/93AaTKr.png",
+      "https://imgur.com/rj4EnFX.png"
+    ],
+    "desc": ""
+  },
+  {
+    "name": "Mega Gengar Ex",
+    "count": 3,
+    "img": "https://imgur.com/iFzoztm.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://imgur.com/s5cuQU4.png"],
+    "desc": "Complete battle-ready Pokemon Trading Card Game deck featuring powerful Pokemon cards and essential trainer cards for competitive play"
+  },
+  {
+    "name": "Mega Evolution",
+    "count": 1,
+    "img": "https://i.ebayimg.com/images/g/OzEAAeSwcwlpB~eE/s-l1600.webp",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.ebayimg.com/images/g/OzEAAeSwcwlpB~eE/s-l1600.webp",
+      "https://i.ebayimg.com/images/g/zw4AAeSwCtZpG8Zf/s-l1600.webp"
+    ],
+    "desc": "Mega Evolution cards are a powerful category of the Pokémon Trading Card Game (TCG) featuring Pokémon that have undergone a temporary, high-powered transformation."
+  },
+  {
+    "name": "Phantasmal Blister",
+    "count": 1,
+    "img": "https://tcgplayer-cdn.tcgplayer.com/product/654151_in_1000x1000.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/654151_in_1000x1000.jpg"
+    ],
+    "desc": "gnite a Burning Spirit of Battle! Searing blue flames rip across a dark battlefield as Mega Charizard X ex soars up and looks down upon its opponents! With a deep chill to rival the heat, the shadowy figure of Mega Gengar ex slowly rises into view, and both Pokémon prepare to attack. Determined to prove their mettle, Mega Heracross ex, Mega Lopunny ex, and even more Pokémon line up to give it their all in the Pokémon TCG: Mega Evolution-Phantasmal Flames expansion!"
+  },
+  {
+    "name": "Lost Origin Sleeve Booster",
+    "count": 2,
+    "img": "https://imgur.com/FU6qJRm.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThXlGNsUmpp26tWXYLOaKM67MxuUCPutmJug&s.png",
+      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8354_182-85056_01.jpg"
+    ],
+    "desc": "Each Lost Origin sleeved booster pack contains 10 random cards."
+  },
+  {
+    "name": "Unbroken Bonds Blister",
+    "count": 6,
+    "img": "https://tcgplayer-cdn.tcgplayer.com/product/188413_in_1000x1000.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/188413_in_1000x1000.jpg",
+      "https://cardsrfun.de/cdn/shop/products/pixelcut_28.jpg?v=1684255454&width=1214"
+    ],
+    "desc": "You will receive, at random, one of two different 3 Booster Blister Pack from the Pokémon TCG: Sun & Moon—Unbroken Bonds expansion Each Blister Pack will contain 3 booster packs. A great way to add to your collection of cards from this expansion You will also receive a foil promo card."
+  },
+  {
+    "name": "Fusion Strike Sleeve Booster",
+    "count": 6,
+    "img": "https://cardshoplive.com/cdn/shop/products/45e06484-0736-56c5-bf92-80d89008cae6_80cb5356-6286-41b8-9b2e-1b6a52a5f6fb_800x.png?v=1644278276",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://cardshoplive.com/cdn/shop/products/45e06484-0736-56c5-bf92-80d89008cae6_80cb5356-6286-41b8-9b2e-1b6a52a5f6fb_800x.png?v=1644278276",
+      "https://m.media-amazon.com/images/I/61E-n-tdc3L._AC_SY879_.jpg"
+    ],
+    "desc": "The path ahead is riddled with rivals and fierce battle."
+  },
+  {
+    "name": "Mega Evolutions BB",
+    "count": 22,
+    "img": "https://storage.googleapis.com/images.pricecharting.com/u5xnrlbvhqoqnwaq/1600.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://storage.googleapis.com/images.pricecharting.com/u5xnrlbvhqoqnwaq/1600.jpg",
+      "https://m.media-amazon.com/images/I/81PXZVeBaNL._AC_SY879_.jpg",
+      "https://www.pokemoncenter.com/images/DAMRoot/High/10015/P10346_10-10054-108_02.jpg"
+    ],
+    "desc": "The Pokémon TCG: Mega Evolution Enhanced Booster Display Box contains 36 booster packs from Pokémon TCG: Mega Evolution.This is a great way to try and collect all the cards in the new Mega Evolutions expansion. The new Mega Evolutions expansion has over 180 cards and nearly a dozen Mega Evolution Pokémon ex."
+  },
+  {
+    "name": "Unified Minds 3 Pack Blister",
+    "count": 15,
+    "img": "https://images.pristineauction.com/178/1783125/1613413342-Pokemon-Sun-Moon-Unified-Minds-3-Pack-Hanger-Box-PristineAuction.com.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://images.pristineauction.com/178/1783125/1613413342-Pokemon-Sun-Moon-Unified-Minds-3-Pack-Hanger-Box-PristineAuction.com.jpg"
+    ],
+    "desc": "A Pokémon TCG: Sun & Moon—Unified Minds 3-Pack Blister typically includes three booster packs, a collectible metallic coin, and one of two foil black star promo cards (SM208 Vikavolt or SM209 Stakataka). The blister also includes a code card for the Pokémon Trading Card Game Online. Each pack contains 10 cards. Booster Packs: 3x Sun & Moon—Unified Minds packs.Promo Card: 1x Foil promo card (either SM208 Vikavolt or SM209 Stakataka).Coin: 1x Pokemon coin (commonly a Rowlet design).Online Code Card: 1x TCG Live/Online code card."
+  },
+  {
+    "name": "Twilight Booster Box",
+    "count": 28,
+    "img": "https://cdn.shopify.com/s/files/1/0275/9661/9858/files/543846_in_1000x1000_550d8967-ec40-4a76-95e9-9a3a78d8fa84.jpg?v=1741419044.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0275/9661/9858/files/543846_in_1000x1000_550d8967-ec40-4a76-95e9-9a3a78d8fa84.jpg?v=1741419044.png",
+      "https://i.ebayimg.com/images/g/e3gAAOSwBZFmAREb/s-l1600.webp",
+      "https://i.ebayimg.com/images/g/4ewAAOSwH-hmAREb/s-l1600.webp"
+    ],
+    "desc": "A Festival of Mischief & Mystery! Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+  },
+  {
+    "name": "151 Booster Bundle",
+    "count": 10,
+    "img": "https://storage.googleapis.com/images.pricecharting.com/q6f5vquklqmrpii4/1600.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://storage.googleapis.com/images.pricecharting.com/q6f5vquklqmrpii4/1600.jpg",
+      "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv3dot5/header/en-us/151-small-fallback.jpg"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—151 Booster Bundle contains six booster packs from the special Scarlet & Violet—151 expansion. Each individual pack contains 10 cards and 1 Basic Energy, featuring Pokémon from the original Kanto region. This bundle is designed to help collectors fill their sets with Pokémon ex, illustration rares, and special illustration rares.."
+  },
+  {
+    "name": "Paldean Fates Booster Bundle",
+    "count": 10,
+    "img": "https://storage.googleapis.com/images.pricecharting.com/c9ec00614ec0ce1f87ffe426b17815b5a0812d610a9b1361a81f2f60f3789d36/1600.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://storage.googleapis.com/images.pricecharting.com/c9ec00614ec0ce1f87ffe426b17815b5a0812d610a9b1361a81f2f60f3789d36/1600.jpg",
+      "https://m.media-amazon.com/images/I/81Z4hPWuVrL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/81z5arbZkeL._AC_SX679_.jpg"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Paldean Fates Booster Bundle includes six booster packs from the special expansion. Each pack contains 10 cards and 1 Basic Energy, with a focus on Shiny Pokémon, including Shiny Pikachu, Tinkaton, Ceruledge, Dondozo, and Shiny Tera Pokémon ex like Charizard."
+  },
+  {
+    "name": "Journey Together Booster Bundle",
+    "count": 4,
+    "img": "https://cdn.shopify.com/s/files/1/0598/2244/0600/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024_1.jpg?v=1742624662.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0598/2244/0600/files/Pokemon-TCG-Scarlet-Violet-Journey-Together-Booster-Bundle_EN-761x1024_1.jpg?v=1742624662.png",
+      "https://dz3we2x72f7ol.cloudfront.net/expansions/journey-together/en-us/SV09_EN_98-2x.png"
+    ],
+    "desc": "rainer’s Pokémon Break into Battle! With deep trust and steady guidance, Trainers help bring out the best in their Pokémon. The bond they share empowers them to act as one in battle as they push their strength to the limit, including as Pokémon ex! Team up with N’s Zoroark ex, Iono’s Bellibolt ex, Lillie’s Clefairy ex, Hop’s Zacian ex, and more Trainer's Pokémon, and discover the unstoppable power of friendship in the Pokémon TCG: Scarlet & Violet—Journey Together expansion!"
+  },
+  {
+    "name": "Temporal Forces Booster Box",
+    "count": 25,
+    "img": "https://storage.googleapis.com/images.pricecharting.com/4fbe4dff0849444e52fb7aa13fe52781770adbe24cbf9fcd9cbf12aa5d3327df/1600.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://storage.googleapis.com/images.pricecharting.com/4fbe4dff0849444e52fb7aa13fe52781770adbe24cbf9fcd9cbf12aa5d3327df/1600.jpg",
+      "https://shoplineimg.com/62a373d4592b8000236cbb90/65a43875f47fa1001130ceab/800x.jpg?"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Temporal Forces Booster Display Box contains 36 Booster Packs from the Temporal Forces Expansion of the the The Pokémon TCG card game."
+  },
+  {
+    "name": "Brilliant Stars Booster Box",
+    "count": 50,
+    "img": "https://tcgplayer-cdn.tcgplayer.com/product/256141_in_1000x1000.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/256141_in_1000x1000.jpg",
+      "https://m.media-amazon.com/images/I/91erDo+fgeL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71ei00lz8jL.jpg"
+    ],
+    "desc": "Each Sword & Shield— Brilliants Stars booster box contains 36 booster packs. (Each pack contains 10 random cards)"
+  },
+  {
+    "name": "Astral Radiance Booster Box",
+    "count": 36,
+    "img": "https://storage.googleapis.com/images.pricecharting.com/ugsxjoig7mzehidq/1600.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://storage.googleapis.com/images.pricecharting.com/ugsxjoig7mzehidq/1600.jpg",
+      "https://m.media-amazon.com/images/I/71YW3pTA29L._AC_SX679_.jpg"
+    ],
+    "desc": "Astral Radiance is the 10th main expansion in the Sword & Shield Series."
+  },
+  {
+    "name": "Silver Tempest Booster Box",
+    "count": 43,
+    "img": "https://tcgplayer-cdn.tcgplayer.com/product/283389_in_1000x1000.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/283389_in_1000x1000.jpg",
+      "https://m.media-amazon.com/images/I/91qtr5O-plL._AC_UF350,350_QL80_.jpg"
+    ],
+    "desc": "Thirty-six sealed booster packs of Pokemon's Sliver Tempest expansion."
+  },
+  {
+    "name": "Ascended Heroes Pokemon Center",
+    "count": 20,
+    "img": "https://tcgplayer-cdn.tcgplayer.com/product/668497_in_1000x1000.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/668497_in_1000x1000.jpg",
+      "https://i.ebayimg.com/images/g/b1MAAeSwy~xpjmUI/s-l1600.webp"
+    ],
+    "desc": "Card Text:Rise to a New Challenge! Marvel at the awesome potential as Mega Dragonite ex takes flight, leading a gathering of all-star Pokémon to battle! Trainer’s Pokémon and Stellar Tera Pokémon ex join returning and newly discovered Mega Evolution Pokémon ex, including some with special artwork showing off their biggest and boldest attacks. Celebrate the stars of Scarlet & Violet and the dawn of Mega Evolution with the Pokémon TCG: Mega Evolution—Ascended Heroes expansion!"
+  },
+  {
+    "name": "Pokemon Center Kanazawa Limited Special Box",
+    "count": 90,
+    "img": "https://i.imgur.com/hhEART8.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/hhEART8.png",
+      "https://www.fujicardshop.com/wp-content/uploads/2024/07/SP-kanazawa_2-scaled-1024x1024.webp",
+      "https://www.fujicardshop.com/wp-content/uploads/2024/07/SP-kanazawa_p1-1024x1024.webp"
+    ],
+    "desc": "Pokemon Center Kanazawa Limited Special Box featuring Pikachu. Premium card shields included."
+  },
+  {
+    "name": "Charizard SWSH UPC",
+    "count": 40,
+    "img": "https://i.imgur.com/PpQJxzz.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/PpQJxzz.png"],
+    "desc": "Celebrate the Sword & Shield Series and the era of Pokémon V, Pokémon VMAX, and Pokémon VSTAR with a hotshot who knows how to put all that power to good use!"
+  },
+  {
+    "name": "Paldean Fates ETB",
+    "count": 40,
+    "img": "https://i.imgur.com/lL9LgLg.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://m.media-amazon.com/images/I/81EE94CCiIL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/91nD2E+-clL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81v1f0UlnoL._AC_SX679_.jpg"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Paldean Fates Elite Trainer Box includes 9 booster packs and various accessories."
+  },
+  {
+    "name": "Champion Path ETB",
+    "count": 18,
+    "img": "https://i.imgur.com/d0ox6MV.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://m.media-amazon.com/images/I/61RfKGudmML._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81EOiSs0x4L._AC_SX679_.jpg"
+    ],
+    "desc": "The Pokémon TCG: Champion’s Path Elite Trainer Box includes 10 booster packs and a full-art promo card featuring Charizard V."
+  },
+  {
+    "name": "Moon ETB",
+    "count": 16,
+    "img": "https://i.imgur.com/r6bqVle.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://m.media-amazon.com/images/I/61E00Rk-xNL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51AsxPkJ94L._AC_SX679_.jpg"
+    ],
+    "desc": "Elite Trainer Box inventory item."
+  },
+  {
+    "name": "Astral Radiance ETB",
+    "count": 9,
+    "img": "https://i.imgur.com/6L93InO.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://tcgplayer-cdn.tcgplayer.com/product/265527_in_1000x1000.jpg",
+      "https://card-binder.com/cdn/shop/files/Astral-Radiance-Elite-Trainer-Box-inhoud.webp"
+    ],
+    "desc": "THE POKÉMON TCG: SWORD & SHIELD — Astral Radiance ELITE TRAINER BOX."
+  },
+  {
+    "name": "Surging Sparks ETB",
+    "count": 7,
+    "img": "https://i.imgur.com/Rv9k0Bl.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://m.media-amazon.com/images/I/91G7bLEebxL._AC_SX679_.jpg",
+      "https://tcgplayer-cdn.tcgplayer.com/product/565630_in_1000x1000.jpg"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Surging Sparks Elite Trainer Box."
+  },
+  {
+    "name": "Phantasmal Flames",
+    "count": 8,
+    "img": "https://i.ebayimg.com/images/g/NegAAeSw1H1pHI-G/s-l1600.webp",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/qGMO3Xy.png",
+      "https://i.ebayimg.com/images/g/PPAAAeSwD9tpHI-G/s-l1600.webp"
+    ],
+    "desc": " The set is headlined by Mega Charizard X ex and Mega Gengar ex, reflecting the 'flame' and 'phantasmal' (ghost) duality in the title. Other featured Mega Evolutions include Mega Heracross ex, Mega Lopunny ex, Mega Diancie ex, and Mega Sharpedo ex."
+  },
+  {
+    "name": "Mega Charizard X ex",
+    "count": 3,
+    "img": "https://i.imgur.com/0vB9tWa.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/0vB9tWa.png"],
+    "desc": "The Mega Charizard X ex (130/094) is a Stage 2 Fire-type Pokémon ex card with 360 HP, featuring the 'Inferno X' attack, which discards Fire Energy to deal damage. Released in the Phantasmal Flames expansion, this card often features artwork by takuyoa and is available in premium collections featuring blue flame imagery. ."
+  },
+  {
+    "name": "Paradox Rift ETB",
+    "count": 8,
+    "img": "https://i.imgur.com/72UxpTh.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/72UxpTh.png",
+      "https://www.spshop.ca/cdn/shop/files/PokemonTCGScarletViolet--ParadoxRiftEliteTrainerBox-IronValiant-Front_EN-1201x1049-0e04d5a_1024x1024.png?v=1734127556",
+      "https://m.media-amazon.com/images/I/91frM0iFRBL._AC_SL1500_.jpg"
+    ],
+    "desc": "Pokémon TCG: Scarlet & Violet—Paradox Rift is the fourth expansion in the Scarlet & Violet series, focusing on Ancient Pokémon (high HP/damage) and Future Pokémon (speed/technique). It introduces over 180 cards, including 13 Pokémon ex, 7 Tera Pokémon ex, and Technical Machine cards."
+  },
+  {
+    "name": "Masks of Ogerpon",
+    "count": 5,
+    "img": "https://i.imgur.com/dWAygo2.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/dWAygo2.png",
+      "https://i.imgur.com/RKPp4M6.png"
+    ],
+    "desc": "The Pokémon TCG: Masks of Ogerpon Premium Collection features Hearthflame and Wellspring Mask Ogerpon ex cards, along with 10 booster packs (typically 5 Twilight Masquerade, 5 Temporal Forces) and an oversized card. It focuses on the Fire and Water types of the Legendary Pokémon."
+  },
+  {
+    "name": "Mega lucario ex",
+    "count": 4,
+    "img": "https://i.ebayimg.com/images/g/zqwAAeSwZ3hpfoDP/s-l1600.webp",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/dWAygo2.png"],
+    "desc": "Mega Evolution Pokémon first made their Pokémon TCG debut as part of the XY expansion, but they work much differently in the new Mega Evolution expansion. Back in the day, unless you had a special Pokémon Tool card known as a Spirit Link attached, your turn would end when you Mega Evolved a Pokémon."
+  },
+  {
+    "name": "Scarlet+Violet Destined Rivals",
+    "count": 5,
+    "img": "https://i.imgur.com/wGsWO4l.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/TXTewzC.png"],
+    "desc": "Pokémon TCG: Scarlet & Violet—Destined Rivals, focuses on iconic trainer-Pokémon pairs and the return of 'Trainer's Pokémon' cards, featuring over 85 such cards, including Team Rocket. Key highlights include Giovanni and Mewtwo ex, Ethan and Ho-Oh ex, and Cynthia and Garchomp ex"
+  },
+  {
+    "name": "Charizrd ex Special collection",
+    "count": 4,
+    "img": "https://i.imgur.com/3Gmv8ug.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/qAyJ4v5.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/charizard-ex-special-collection/charizard-ex-special-collection-169-en.png"
+    ],
+    "desc": "Charizard ex burns up the opposition’s lead with the cunning firepower of a Darkness-type Pokémon. Evolve from Charmander and Charmeleon, then use its strong Ability and attack to make a roaring comeback. This fiery set also comes with 5 Pokémon TCG booster packs and an oversize lenticular card featuring the Flame Pokémon itself; move the card back and forth to see Charizard ex go on the attack."
+  },
+  {
+    "name": "Sword and Shield Brilliant Stars",
+    "count": 2,
+    "img": "https://cosmiccollectables.co.uk/cdn/shop/products/3sleeve_grande.jpg?v=1636676796",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/WwvDvk1.png"],
+    "desc": "Each Brilliant Stars booster pack contains 10 random cards."
+  },
+  {
+    "name": "Black Bolt ETB",
+    "count": 17,
+    "img": "https://d1i787aglh9bmb.cloudfront.net/assets/img/sv-expansions/sv10dot5/collections/en-us/zsv10pt5-blackbolt-pc-etb-en-2x.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/khiE0CX.png",
+      "https://i.ebayimg.com/images/g/dLEAAeSwovhonfH3/s-l1600.webp"
+    ],
+    "desc": "Reunite with the Pokémon of Unova and rise to the top as a Trainer in a land of unity and legends! Evolve first partner Snivy all the way to Serperior ex, and discover the inspiring power of ideals with the region’s Legendary and Mythical Pokémon, including Zekrom ex and Meloetta ex. As you fill out your Pokédex, keep an eye out for special illustrations of each Pokémon and parallel cards with Poké Ball patterns in the Pokémon TCG: Scarlet & Violet—Black Bolt expansion!"
+  },
+  {
+    "name": "Black Bolt Binder Collection",
+    "count": 5,
+    "img": "https://i.imgur.com/ibYMkUO.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/L7RTtNN.png"],
+    "desc": "Just like a Pokédex, a binder makes it easy to keep track of your Pokémon collection! With this 9-pocket binder, you can show off many of your favorite Pokémon TCG cards. Get a head start filling it up with five booster packs from the special Scarlet & Violet—Black Bolt or Scarlet & Violet—White Flare expansion! Each Pokémon TCG: Scarlet & Violet—Black Bolt and Scarlet & Violet—White Flare Binder Collection includes:A thematic 9-pocket binder 5 Pokémon TCG: Scarlet & Violet—Black Bolt or Scarlet & Violet—White Flare booster packs A collector’s card list"
+  },
+  {
+    "name": "Mega Evolution Ascended Heroes",
+    "count": 3,
+    "img": "https://i.imgur.com/xSavD0M.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/xSavD0M.png"],
+    "desc": ""
+  },
+  {
+    "name": "Mega Evolution Ascended Heroes",
+    "count": 3,
+    "img": "https://i.imgur.com/QUR6mfl.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/QUR6mfl.png"],
+    "desc": "Each Pokémon TCG: Mega Evolution—Ascended Heroes Collection—Erika/Larry includes: - 1 foil promo card featuring Erika’s Tangela or Larry’s Komala - 1 Pokémon coin featuring Erika or Larry - 2 Pokémon TCG: Mega Evolution—Ascended Heroes booster packs"
+  },
+  {
+    "name": "Scarlet and Violet Prismatic Evolutions Booster Box",
+    "count": 8,
+    "img": "https://i.imgur.com/wXpCmuf.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/ozyfebZ.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png"
+    ],
+    "desc": "From fluffy and fiery to freezing and fanciful, Eevee and its many Evolutions hold a special place in the hearts of Pokémon Trainers across the land. Discover their unique powers as Stellar Tera Pokémon ex, and look for treasure of your very own across a grand gathering of Pokémon ex from Paldea and beyond. Glittering gems and hidden patterns await at the end of the rainbow in the Pokémon TCG: Scarlet & Violet—Prismatic Evolutions expansion!"
+  },
+  {
+    "name": "Scarlet and Violet Prismatic Evolutions Premium figure collection",
+    "count": 18,
+    "img": "https://i.imgur.com/rF9f0nQ.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/GVn8dUs.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-premium-figure-collection/sv8pt5-premium-figure-collection-169-en.png"
+    ],
+    "desc": "The Sun Pokémon and Moonlight Pokémon combine powers to bring dazzling treasures to your collection! Appearing as Stellar Tera Pokémon ex, Espeon and Umbreon sparkle brightly with attacks that disrupt your opponent’s strategy. These etched foil promo cards are joined by a display-ready figure showing both of these Eevee Evolutions looking focused and fierce, plus a collectible enamel pin and full set of card sleeves for your next deck. Then, get ready to find even more surprises inside booster packs from the special Scarlet & Violet—Prismatic Evolutions expansion!"
+  },
+  {
+    "name": "Scarlet and Violet Prismatic Evolutions ETB",
+    "count": 13,
+    "img": "https://m.media-amazon.com/images/I/81DG4MWqGAL._AC_SX679_.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/jlKfw9L.png",
+      "https://m.media-amazon.com/images/I/918i1qmnt2L._AC_SX679_.jpg"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Elite Trainer Box includes 9 Pokémon TCG: Scarlet & Violet—Prismatic Evolutions booster packs, 1 full-art foil promo card featuring Eevee, and 65 card sleeves featuring Eevee as a Stellar Tera Pokémon."
+  },
+  {
+    "name": "Scarlet and Violet Prismatic Evolutions Poster Collection",
+    "count": 4,
+    "img": "https://m.media-amazon.com/images/I/71igL1nP9aL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/TSxxuIJ.png",
+      "https://m.media-amazon.com/images/I/714HKoEHyYL._AC_SX679_.jpg",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png"
+    ],
+    "desc": "Discover a rainbow of Eevee friends! Eevee’s three Evolutions originally discovered in the Kanto region are beloved by Pokémon Trainers across the land, and now you can add them to your own collection as foil promo cards! You’ll also get a poster featuring the special Scarlet & Violet—Prismatic Evolutions expansion, along with three booster packs to open. The only question is which cards you’ll find inside them!"
+  },
+  {
+    "name": "Scarlet and Violet Shrouded Fable ETB",
+    "count": 7,
+    "img": "https://m.media-amazon.com/images/I/91Whs704agL._AC_SX679_.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/W3GkfWQ.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-elite-trainer-box/sv6pt5-elite-trainer-box-169-en.png"
+    ],
+    "desc": "Rumors swirl and memories deceive as the march of time beats on in the land of Kitakami! Prepare for nightfall and discover a malevolent presence as Pecharunt ex commands the Loyal Three—Okidogi ex, Munkidori ex, and Fezandipiti ex—to do its nefarious bidding. These amazing Pokémon and more all await in the Pokémon TCG: Scarlet & Violet—Shrouded Fable expansion! This Elite Trainer Box has everything that you need to get started on your Pokémon TCG journey, from booster packs that add new cards to your collection to a set of sleeves for your favorite cards or Pokémon TCG deck. You’ll also be delighted to see the treacherous Pecharunt appearing as a full-art foil promo card."
+  },
+  {
+    "name": "Scarlet and Violet Prismatic Evolution Surprise Box",
+    "count": 4,
+    "img": "https://www.pokemoncenter.com/images/DAMRoot/High/10004/P10460_100-10096_01.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/soufBlV.png",
+      "https://www.pokemoncenter.com/images/DAMRoot/High/10004/P10460_100-10096_02.jpg",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-surprise-box/sv8pt5-surprise-box-169-en.png"
+    ],
+    "desc": "The Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Surprise Box, features 4 booster packs from the special expansion and 1 of 9 random foil promo cards (Eevee or its evolutions as Stellar Tera Pokémon ex). The box includes 4 card dividers for storage, a code card for TCG Live, and is designed for collectors"
+  },
+  {
+    "name": "Team Rocket's Nidoking ex",
+    "count": 4,
+    "img": "https://tools.toywiz.com/_images/_webp/_products/lg/teamrocketsnidoking.webp",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/lxCa1hD.png"],
+    "desc": ""
+  },
+  {
+    "name": "Team Rocket's Persian ex",
+    "count": 4,
+    "img": "https://i.imgur.com/o9na7Tk.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/o9na7Tk.png"],
+    "desc": "Each Pokémon Persian Team Rocket ex Tin includes 5 booster packs and more!"
+  },
+  {
+    "name": "Scarlet and Violet Twilight Masqurade ETB",
+    "count": 6,
+    "img": "https://www.pokemoncenter.com/images/DAMRoot/Full-Size/10000/P9505_189-85799_01.jpg",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/sZvJsrV.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv06-elite-trainer-box/sv06-elite-trainer-box-169-en.png",
+      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9505_189-85799_02.jpg",
+      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9505_189-85799_06.jpg"
+    ],
+    "desc": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+  },
+  {
+    "name": "Sword and shield vivid voltage",
+    "count": 6,
+    "img": "https://pastimesports.ca/cdn/shop/files/download_4b66eff8-1402-4db2-b2b9-f968902d0bab_167x301.jpg?v=1736030163",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/DPskbC3.png"],
+    "desc": "Discover new brilliance and maximum power in the Pokémon TCG: Sword & Shield—Vivid Voltage expansion. Even more Pokémon V are lining up to battle, including the newly discovered Mythical Pokémon Zarude! Unique new Amazing Pokémon burst onto the scene with a rainbow splash, alongside more Pokémon VMAX…including the splendor, the majesty, the delightful round wonder that is Gigantamax Pikachu! Put a little color and a lot of spark into your deck or collection with the Sword & Shield—Vivid Voltage expansion!"
+  },
 
-            "https://i.imgur.com/kKFgt2E.png"
-        ],
-        "desc": "Pokémon TCG: Mega Evolution—Ascended Heroes is a special expansion , featuring over 290 cards, including 14+ ultra-rare Mega Evolution Pokémon ex and Mega Dragonite ex. This set spotlights Pokémon Legends: Z-A first partner Pokémon and Trainer's Pokémon. It includes Mega Lucario ex, Mega Gardevoir ex, and Stellar Tera Pokémon ex."
-    }
+  {
+    "name": "Scarlet and violet Zapdos ex collection",
+    "count": 15,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwae69evWguuj3m4d4ZFRAdiFWtMx75Os0g&s",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": [
+      "https://i.imgur.com/VfC652T.png",
+      "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-collection-zapdos-ex/sv035-collection-zapdos-ex-169-en.png"
+    ],
+    "desc": "Strike with electrifying power and then retreat as fast as lightning with Zapdos ex! This Legendary Pokémon of the Kanto region is here as a ready-to-play promo card and an oversize card for your collection, along with a foil card featuring Electabuzz, and more Pokémon inside booster packs from the special Scarlet & Violet—151 expansion."
+  },
+  {
+    "name": "Mega Evolution Ascended Heroes",
+    "count": 7,
+    "img": "https://i.imgur.com/AE4gBSK.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://i.imgur.com/kKFgt2E.png"],
+    "desc": "Pokémon TCG: Mega Evolution—Ascended Heroes is a special expansion , featuring over 290 cards, including 14+ ultra-rare Mega Evolution Pokémon ex and Mega Dragonite ex. This set spotlights Pokémon Legends: Z-A first partner Pokémon and Trainer's Pokémon. It includes Mega Lucario ex, Mega Gardevoir ex, and Stellar Tera Pokémon ex."
+  }
 ]
