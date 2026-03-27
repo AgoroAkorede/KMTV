@@ -36,15 +36,29 @@
     ],
     "desc": "Mega Evolution Perfect Order Elite Trainer Box: 9 Pokémon booster packs, 65 card sleeves, 45 Pokémon TCG Energy cards"
   },
+
   {
-    "name": "Perfect Order",
-    "count": 8,
-    "img": "https://imgur.com/93AaTKr.png",
+    "name": "Phantasmal Flames ETB",
+    "count": 10,
+    "img": "https://imgur.com/gieTWdF.png",
     "url": "SHOP_URL_PLACEHOLDER",
-    "images": [
-      "https://imgur.com/93AaTKr.png",
-      "https://imgur.com/rj4EnFX.png"
-    ],
+    "images": ["https://imgur.com/gieTWdF.png"],
+    "desc": ""
+  },
+  {
+    "name": "Ascended Heroes ETB",
+    "count": 10,
+    "img": "https://imgur.com/tKNzFPP.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://imgur.com/tKNzFPP.png"],
+    "desc": ""
+  },
+  {
+    "name": "Temporal Forces ETB",
+    "count": 10,
+    "img": "https://imgur.com/mo4Zkag.png",
+    "url": "SHOP_URL_PLACEHOLDER",
+    "images": ["https://imgur.com/mo4Zkag.png"],
     "desc": ""
   },
   {
