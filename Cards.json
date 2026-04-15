@@ -339,17 +339,7 @@
     ],
     "desc": "The Pokémon TCG: Scarlet & Violet—Surging Sparks Elite Trainer Box."
   },
-  {
-    "name": "Phantasmal Flames",
-    "count": 8,
-    "img": "https://i.ebayimg.com/images/g/NegAAeSw1H1pHI-G/s-l1600.webp",
-    "url": "SHOP_URL_PLACEHOLDER",
-    "images": [
-      "https://i.imgur.com/qGMO3Xy.png",
-      "https://i.ebayimg.com/images/g/PPAAAeSwD9tpHI-G/s-l1600.webp"
-    ],
-    "desc": " The set is headlined by Mega Charizard X ex and Mega Gengar ex, reflecting the 'flame' and 'phantasmal' (ghost) duality in the title. Other featured Mega Evolutions include Mega Heracross ex, Mega Lopunny ex, Mega Diancie ex, and Mega Sharpedo ex."
-  },
+
   {
     "name": "Mega Charizard X ex",
     "count": 3,
